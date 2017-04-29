@@ -1,0 +1,24 @@
+sala   = sl
+status = st
+st = 0 = livre
+st = 1 = ocupada
+
+sl st cliente
+01 0  a
+02 0  b
+03 0  c
+04 0  d
+05 0  e
+
+'''
+Implementar sistema de alocação de salas de aula.
+ Servidor: Mantém recursos (salas),
+ informa sobre recursos existentes,
+ informa sobre status de cada recurso,
+ permite alocar recursos
+e permite desalocar recursos.
+Clientes: consulta e reservam recursos.
+ TRabalho em dupla.
+Entregar: Definição de protocolos de aplicação,
+ implementação do cliente e servidor em sua linguagem de preferência.
+ '''
